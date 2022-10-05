@@ -4,7 +4,7 @@
       <v-col cols="6">半分</v-col>
             <v-col cols="6">半分</v-col>
     </v-row>
-    
+
   </v-flex>
 </template>
 <script>
@@ -23,6 +23,7 @@ export default {
     email: '',
     password: '',
     user: {},
+
   }),
   // email: '1001999@s..ac.jp',
   // password: 'test-2022Aso',
