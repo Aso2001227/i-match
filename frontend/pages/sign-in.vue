@@ -38,6 +38,9 @@
               <v-row class="mt-10" justify="center">
                 アカウントをお持ちではありませんか？<NuxtLink to="/sign-up">こちらから新規登録</NuxtLink>
               </v-row>
+                            <v-row class="mt-10" justify="center">
+                アカウントをお持ちではありませんか？<NuxtLink to="/prac">練習場所</NuxtLink>
+              </v-row>
             </div>
           </v-form>
         </v-card>
